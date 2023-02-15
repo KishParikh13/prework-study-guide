@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# Prework Study Guide - Berkeley Coding Bootcamp
 
 [View site on Github Pages](https://kishparikh13.github.io/prework-study-guide/)
 
